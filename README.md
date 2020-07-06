@@ -9,10 +9,9 @@ To make your preparation easy and effective, we have also shot the concept lectu
 
 Video Lectures : https://packetprep.com/course/python-for-interviews<br>
 
-If you are falling short of time, then go through the important programs which are marked as :snowflake:<br>
 > ALL THE BEST FOR YOUR INTERVIEW
 
----
+
 Written with lots of love & passion for programming...<br>
 Do give your valuable feedback... <br>
 Together we can make this repository awesome :thumbsup:
